@@ -1,2 +1,8 @@
-# database_lab
-in this repository you will found database from basic to advance
+## Lab 01: Environment Setup
+# Database Systems Labs - Spring 2026
+
+**Student:** AWAIS KHAN
+**Program:** Data Science
+
+## Lab 01: Environment Setup
+Setting up PostgreSQL, DBeaver, and Git for database development.
